@@ -1,4 +1,4 @@
-*# 💫 About Me:
+💫 About Me:
 Hello, and welcome to my portfolio! I am a 3rd-year Computer Science Engineering student. I have a strong passion for software development, and I truly enjoy building helpful web applications and exploring artificial intelligence. Thank you for taking the time to visit my page.
 
 
