@@ -1,47 +1,219 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is TEEJAN TEEPEE
-======================================================================================================================================
+<div align="center">
 
-Computer Science Student | AI & Cybersecurity Projects | Cloud Enthusiast
--------------------------------------------------------------------------
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=TEEJAN%20TEEPEE&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Cloud%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
-I am a B.Tech Computer Science Engineering student from Kerala, India.
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Cloud+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Embedded+Systems+%26+IoT+Builder+%F0%9F%94%A7;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;B.Tech+CSE+%40+Holy+Grace+Academy+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-I enjoy building scalable web applications, exploring artificial intelligence, and working with cloud technologies.
+<br/>
 
-My projects focus on real-world problems such as phishing detection systems, sign language recognition, and full stack web platforms.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teejan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teejan7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://teejan7.github.io/portfolio/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/teejan67)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aura_7_7_7)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teejan107@gmail.com)
 
-I am continuously learning new technologies and improving my skills in backend development, machine learning, and cloud computing.
+<img src="https://komarev.com/ghpvc/?username=teejan7&label=Profile+Views&color=22c55e&style=flat-square" alt="Profile Views"/>
 
-* 🌍  I'm based in Kerala, India
-* 🖥️  See my portfolio at [https://teejan7.github.io/portfolio](http://teejan7.github.io/portfolio)
-* ✉️  You can contact me at [mailto:teejan107@gmail.com](mailto:mailto:teejan107@gmail.com)
-* 🚀  I'm currently working on [Sign Language Translator using Machine Learning](http://https://github.com/teejan7/sign)
-* 🧠  I'm currently learning Cloud computing, machine learning, and backend architecture
-* 👥  I'm looking to collaborate on AI, cybersecurity, and web development projects
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" alt="Filebase" title="Filebase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+## 🎮 Character Sheet
 
-<p align="left"> <a href="https://www.github.com/teejan7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/teejan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@aura_7_7_7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/teejan7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/teejan7?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
-### Badges
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         ⚔️  DEVELOPER PROFILE — TEEJAN TEEPEE  ⚔️               ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME      │  Teejan Teepee                                      ║
+║  CLASS     │  Full Stack Developer + AI Engineer                 ║
+║  GUILD     │  Holy Grace Academy of Engineering, Kerala 🇮🇳       ║
+║  RANK      │  B.Tech CSE Student  [ ████████░░ ]  Lv. 3/4        ║
+║  LOCATION  │  Kerala, India                                      ║
+║  STATUS    │  🟢 Open to Collabs & Internships                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                         ★  STATS  ★                             ║
+║                                                                  ║
+║  ⚡ Full Stack Dev    [ ████████░░ ]  80/100                     ║
+║  🤖 AI / ML           [ ███████░░░ ]  70/100                     ║
+║  ☁️  Cloud Computing   [ ██████░░░░ ]  65/100                    ║
+║  🔧 Embedded Systems  [ ███████░░░ ]  72/100                     ║
+║  🛡️  Cybersecurity      [ ██████░░░░ ]  60/100                   ║
+║  🎨 UI / UX Design    [ ██████░░░░ ]  62/100                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║                       ★  ACTIVE QUESTS  ★                       ║
+║                                                                  ║
+║  🗺️  [MAIN]   Ship ASL Vision — Sign Language AI App             ║
+║  📖  [SIDE]   Master Cloud Architecture & MLOps                  ║
+║  🤝  [GUILD]  Collaborate on AI & Cybersecurity Projects         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                         ★  ABILITIES  ★                         ║
+║                                                                  ║
+║  🔥  Build scalable real-time web applications                  ║
+║  🔥  Train & deploy ML models end-to-end                        ║
+║  🔥  Design hardware-software integrated IoT systems            ║
+║  🔥  Detect & mitigate cybersecurity threats with AI            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  CONTACT   │  teejan107@gmail.com                                ║
+║  PORTFOLIO │  teejan7.github.io/portfolio                        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/teejan7"><img src="https://github-readme-stats.vercel.app/api?username=teejan7&show_icons=true&hide=issues,&title_color=22c55e&text_color=0891b2&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="teejan7's GitHub stats" /></a>
+## 🎓 Education & Qualifications
 
-<a href="http://www.github.com/teejan7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teejan7&stroke=0891b2&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+| 🎓 Degree | 🏫 Institution | 📅 Status |
+|-----------|---------------|-----------|
+| B.Tech — Computer Science & Engineering | Holy Grace Academy of Engineering, Kerala | 🟡 In Progress (2023–Present) |
+| Diploma — Computer Engineering | Kerala Technical University | ✅ Completed |
 
-<a href="https://github.com/teejan7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejan7&langs_count=10&title_color=22c55e&text_color=0891b2&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 🛠️ Tech Stack
 
-<div width="100%" align="center"><a href="https://github.com/teejan7/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=teejan7&repo=portfolio&title_color=22c55e&text_color=0891b2&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/teejan7/phishguard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=teejan7&repo=phishguard&title_color=22c55e&text_color=0891b2&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br /><br /><br /><br /><br />
+### 🤖 AI / ML
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-<div width="100%" align="center"><a href="https://github.com/teejan7/sign" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=teejan7&repo=sign&title_color=22c55e&text_color=0891b2&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### 🌐 Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔧 Embedded Systems & IoT
+![ATmega32](https://img.shields.io/badge/ATmega32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_Simulation-1C2D5E?style=for-the-badge&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge&logoColor=white)
+
+### 🎨 Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤟 ASL Vision — Real-Time Sign Language Recognition
+> AI-powered web app recognizing American Sign Language gestures in real-time using hand landmark detection and a Random Forest classifier across 29 ASL classes.
+
+**Tech:** `Python` `MediaPipe` `scikit-learn` `FastAPI` `Uvicorn` `HTML/CSS/JS` `PWA`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/teejan7/asl_vision)
+
+---
+
+### 🅿️ PARKIKO — Smart Parking Management System
+> Full-stack Firebase-powered real-time parking system with role-based dashboards for customers, owners, and admins. Features live slot booking, revenue tracking, and analytics.
+
+**Tech:** `JavaScript (ES6)` `Firebase RTDB` `Firebase Auth` `HTML/CSS`
+
+---
+
+### 🎬 Django Movie Ticket Booking System
+> Full-stack web app for multiplex bookings with seat allocation, booking history, user auth, and a complete admin panel built on Django 5.x.
+
+**Tech:** `Django 5.x` `Python 3` `SQLite3` `HTML/CSS`
+
+---
+
+### 🔐 Embedded Digital Locking System
+> Hardware-software integrated security system on ATmega32 with keypad input, EEPROM password verification, relay-controlled lock, and LCD feedback. Simulated in Proteus.
+
+**Tech:** `Embedded C` `ATmega32` `EEPROM` `Proteus` `RTOS`
+
+---
+
+### 🛡️ PhishGuard — AI Phishing Detection
+> ML-powered phishing website detection system identifying malicious URLs using machine learning.
+
+**Tech:** `Python` `scikit-learn`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/teejan7/phishguard)
+
+---
+
+### 📚 StudyOS — Student Productivity App
+> Productivity platform for students to manage study sessions, notes, and tasks.
+
+**Tech:** `TypeScript` `Node.js`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/teejan7/studyos-app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=teejan7&show_icons=true&theme=tokyonight&hide_border=true&title_color=22c55e&text_color=c9d1d9&icon_color=facc15&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teejan7&layout=compact&theme=tokyonight&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teejan7&theme=tokyonight&hide_border=true&ring=22c55e&fire=facc15&currStreakLabel=22c55e&background=0d1117" width="70%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=teejan7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teejan7&theme=tokyo-night&bg_color=0d1117&color=22c55e&line=22c55e&point=facc15&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐ If my projects helped you, give them a star!**
+
+*"Build things that matter. Ship things that work. Learn things that last."*
+</div>
